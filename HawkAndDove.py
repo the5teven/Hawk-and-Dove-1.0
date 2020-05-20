@@ -28,6 +28,12 @@ food_to_reproduce = 2
 #Frames per second. The faster this value the faster the simulation.
 fps = 10
 
+#size of window
+window_size = 1440
+
+
+
+
 import tkinter as tk
 import random
 import time
@@ -38,7 +44,7 @@ import matplotlib.pyplot as plt
 from matplotlib.backends.backend_tkagg import FigureCanvasTkAgg
 from matplotlib.figure import Figure
 
-window_size = 720
+window_size = window_size/2
 root = tk.Tk()
 root.maxsize(window_size*2,window_size)
 root.minsize(window_size*2,window_size)
@@ -254,8 +260,7 @@ def startgame(window_size,initial_hawks,initial_doves,initial_foods,food_nutriti
     root.update()
     day = 1
 
-    #while True:
-    for i in range(1800):
+    while True:
         time.sleep(fps)
 
         habitat.go()
