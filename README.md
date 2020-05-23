@@ -1,7 +1,7 @@
 # Hawk-and-Dove-1.0
 This code runs a visual simulation of the Hawk-Dove Game (a famous model in the feld of evolutionary game theory). There is some tweeks to the original  model though to make this one more realistic.  Game perimeters can be set by user.
 
-<img src="Images/gif.gif" width="500" />
+<img src="Image/gif.gif />
 
 My Rules(This is alot so feel free to not read this): 
 1. There is a set amount of food.
