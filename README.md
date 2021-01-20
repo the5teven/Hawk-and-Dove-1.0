@@ -12,7 +12,7 @@ My Rules(This is alot so feel free to not read this):
 6. If one or more doves  and  one or more hawks choose the same food the hawks will steal a majority of the food for themselfs. If there are more then one doves they will split there portion among themselves evenly. If there is more then one Hawk, the hawks will fight over there portion, ultimately spliting their portion evenly amoung themselfs, but lose  a set portion of the food as a penelty for fighting.
 7. If a Hawk or Dove choose a peace of food and no one else chooses it they will get all the food.
 8. At the end of the day if a Hawk or Dove does not have a set amount of food they will die.
-9.At the end of the day if a Hawk or Dove has a set amount of food over there food they need to live they will reproduce and make new Hawks or Doves equal to (food they have - food needed to live) food needed to live, basicly making babys with all the extra food they have.
+9. At the end of the day if a Hawk or Dove has a set amount of food over there food they need to live they will reproduce and make new Hawks or Doves equal to (food they have - food needed to live) food needed to live, basicly making babys with all the extra food they have.
 10. Food resets every day.
 
 Rules Basicly: Doves are nice and Hocks are assholes that fight.
