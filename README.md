@@ -1,5 +1,5 @@
 # Hawk-and-Dove-1.0
-This code runs a visual simulation of the Hawk-Dove Game (a famous model in the field of evolutionary game theory). There are some tweaks to the original model though to make this one more realistic.  Game perimeters can be set by the user.
+This code simulates the Hawk-Dove Game, a renowned model in evolutionary game theory, visually. Some modifications to the original model have been made to enhance the realism of this simulation. The user has the ability to set the parameters of the game.
 
 <img src="Image/gif.gif" width="650" />
 
