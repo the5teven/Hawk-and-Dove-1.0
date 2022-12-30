@@ -3,7 +3,7 @@ This code simulates the Hawk-Dove Game, a renowned model in evolutionary game th
 
 <img src="Image/gif.gif" width="650" />
 
-My Rules(This is a lot so feel free to not read this): 
+## My Rules(This is a lot so feel free to not read this): 
 1. Each day, a limited supply of food is available.
 2. Hawks and Doves will search for food once per day.
 3. They will choose food randomly.
