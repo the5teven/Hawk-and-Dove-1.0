@@ -14,4 +14,5 @@ This code simulates the Hawk-Dove Game, a renowned model in evolutionary game th
 8. At the end of the day, any Hawk or Dove without the minimum required amount of food will die.
 9. At the end of the day, any Hawk or Dove with more food than they need to survive will reproduce, creating new Hawks or Doves equal to (excess food - food needed to survive) / food needed to survive.
 7. The food supply is reset every day.
-Rules Basically: Doves are nice and Hocks are jerks that fight.
+### Rules Basically: 
+Doves are nice and Hocks are jerks that fight.
